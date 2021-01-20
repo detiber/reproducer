@@ -1,0 +1,14 @@
+{
+  "Extensions": [
+    {
+      "Name": "min_tilt_version",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-01-20T11:09:25.54916462-05:00"
+    },
+    {
+      "Name": "min_k8s_version",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-01-20T11:09:26.138550288-05:00"
+    }
+  ]
+}
